@@ -1,0 +1,8 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+dist/
+node_modules/
+.vscode/
