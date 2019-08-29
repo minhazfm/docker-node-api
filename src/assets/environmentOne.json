@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "baseURL": "http://0.0.0.0:8080/",
+    "environment": "DEVELOPMENT",
+    "partner": "LOCAL",
+    "userUUID": "a89f6f7a-ad3b-11e8-98d0-529269fb1459"
+}

@@ -1,0 +1,35 @@
+{
+    "deviceEvents": [
+        {
+            "message": "Device 1"
+        },
+        {
+            "message": "Device 2"
+        },
+        {
+            "message": "Device 3"
+        }
+    ],
+    "panelEvents": [
+        {
+            "message": "Panel 1"
+        },
+        {
+            "message": "Panel 2"
+        },
+        {
+            "message": "Panel 3"
+        }
+    ],
+    "sensorEvents": [
+        {
+            "message": "Sensor 1"            
+        },
+        {
+            "message": "Sensor 2"            
+        },
+        {
+            "message": "Sensor 3"            
+        }
+    ]
+}
